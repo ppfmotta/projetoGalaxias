@@ -1,4 +1,8 @@
-[TOC]
+## As galáxias 
+- [As galáxias](#as-galáxias)
+- [Por que galáxias?](#por-que-galáxias)
+- [Referências](#referências)
+
 
 ## Por que galáxias?
 Sou graduanda em Química Industrial pela UFRJ, mas gosto muito de física e matemática, sendo este último meu curso inicial na faculdade. 
@@ -23,5 +27,4 @@ Por isso, aqui estão os links que usei para estudar ML e dar o ponta pé inicia
 
 Além disso, para sanar dúvidas, utilizei Gemini Ai e Perplexity Ai.
 
-## As galáxias 
 
